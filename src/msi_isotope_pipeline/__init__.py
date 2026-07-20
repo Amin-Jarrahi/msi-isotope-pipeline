@@ -1,5 +1,5 @@
 """
-MSI Isotope Detection Pipeline
+MSI Isotope & Adduct Detection Pipeline
 ===============================
 
 A spatial-statistics-driven pipeline for identifying isotope and adduct
