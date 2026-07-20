@@ -362,8 +362,8 @@ If you use this pipeline in your research, please cite:
 ```bibtex
 @software{msi_isotope_pipeline,
   title  = {MSI Isotope Detection Pipeline},
-  author = {Jarrah, A.},
+  author = {Jarrah, Alex(Amin)},
   year   = {2026},
-  url    = {https://github.com/<your-username>/msi-isotope-pipeline}
+  url    = {https://github.com/Amin-Jarrahi/msi-isotope-pipeline}
 }
 ```
