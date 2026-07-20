@@ -1,4 +1,4 @@
-# MSI Isotope Detection Pipeline
+# MSI Isotope & adduct Detection Pipeline
 
 > **Combined Pipeline: ML Calibration → m/z Isotope Detection & Hierarchy**
 >
